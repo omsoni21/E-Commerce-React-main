@@ -21,18 +21,23 @@ It allows users to browse products, view product details, and manage items in th
 
 # Screenshots
 
-### Home Page
-![Home](https://raw.githubusercontent.com/your-username/your-repo/main/home.png](https://github.com/omsoni21/E-Commerce-React-main/blob/main/home.png?raw=true
-))
+## 📸 Project Screenshots
 
-### Popular in Women
-![Popular](https://raw.githubusercontent.com/your-username/your-repo/main/POPULAR%20IN%20WOMEN.png)
+### 🏠 Home Page
+![Home](https://github.com/omsoni21/E-Commerce-React-main/blob/main/home.png?raw=true)
 
-### New Collections
-![New Collections](https://raw.githubusercontent.com/your-username/your-repo/main/NEW%20COLLECTIONS.png)
+### 🎉 Offer Section
+![Offer](https://github.com/omsoni21/E-Commerce-React-main/blob/main/offer.png?raw=true)
 
-### Offers Section
-![Offers](https://raw.githubusercontent.com/your-username/your-repo/main/Offers.png)
+### 👗 Popular in Women
+![Popular in Women](https://github.com/omsoni21/E-Commerce-React-main/blob/main/POPULAR%20IN%20WOMEN.png?raw=true)
+
+### ✨ New Collections
+![New Collections](https://github.com/omsoni21/E-Commerce-React-main/blob/main/NEW%20COLLECTIONS.png?raw=true)
+
+### 🔥 Offers Banner
+![Offers Banner](https://github.com/omsoni21/E-Commerce-React-main/blob/main/Offers.png?raw=true)
+n/Offers.png)
 
 ## 🛠️ Getting Started
 ### Install dependencies
