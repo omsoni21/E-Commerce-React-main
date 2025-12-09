@@ -22,8 +22,8 @@ It allows users to browse products, view product details, and manage items in th
 # Screenshots
 
 ### Home Page
-![Home](https://raw.githubusercontent.com/your-username/your-repo/main/home.png)
-https://github.com/omsoni21/E-Commerce-React-main/blob/main/home.png?raw=true
+![Home](https://raw.githubusercontent.com/your-username/your-repo/main/home.png](https://github.com/omsoni21/E-Commerce-React-main/blob/main/home.png?raw=true
+))
 
 ### Popular in Women
 ![Popular](https://raw.githubusercontent.com/your-username/your-repo/main/POPULAR%20IN%20WOMEN.png)
