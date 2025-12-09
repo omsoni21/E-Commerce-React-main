@@ -1,0 +1,16 @@
+.hero{display:flex;align-items:center;min-height:70vh;padding:48px 0;background:linear-gradient(180deg, var(--surface), #ffffff00 60%)}
+.hero-left{flex:1;display:flex;flex-direction:column;justify-content:center;gap:18px;padding-left:88px}
+.hero-left h2{color:var(--muted);font-size:18px;font-weight:600}
+.hero-left p{color:var(--text);font-size:56px;font-weight:700;line-height:1.02;margin:0}
+.hero-hand-icon{display:flex;align-items:center;gap:14px}
+.hero-hand-icon img{width:64px}
+.hero-cta{display:inline-flex;align-items:center;gap:12px;padding:14px 20px;border-radius:12px;background:var(--accent);color:white;font-weight:700;box-shadow:0 12px 30px rgba(255,90,95,0.12)}
+.hero-right{flex:1;display:flex;align-items:center;justify-content:center}
+
+@media (max-width:840px){
+    .hero{flex-direction:column;padding:28px 0}
+    .hero-left{padding-left:24px;text-align:left}
+    .hero-left p{font-size:34px}
+    .hero-right img{width:260px}
+    .hero-cta{padding:10px 14px;border-radius:999px;font-size:14px}
+}
