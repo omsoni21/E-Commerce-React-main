@@ -19,10 +19,19 @@ It allows users to browse products, view product details, and manage items in th
 - CSS / Styled Components / Tailwind (based on your project)
 - Other dependencies listed in `package.json`
 
-## 📸 Screenshots
-![Home](./screenshots/home.png)
-![Product Page](./screenshots/product.png)
-![Cart](./screenshots/cart.png)
+# Screenshots
+
+### Home Page
+![Home](https://raw.githubusercontent.com/your-username/your-repo/main/home.png)
+
+### Popular in Women
+![Popular](https://raw.githubusercontent.com/your-username/your-repo/main/POPULAR%20IN%20WOMEN.png)
+
+### New Collections
+![New Collections](https://raw.githubusercontent.com/your-username/your-repo/main/NEW%20COLLECTIONS.png)
+
+### Offers Section
+![Offers](https://raw.githubusercontent.com/your-username/your-repo/main/Offers.png)
 
 ## 🛠️ Getting Started
 ### Install dependencies
