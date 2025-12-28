@@ -29,7 +29,7 @@ It allows users to browse products, view product details, and manage items in th
 ### 🎉 Offer Section
 ![Offer](https://github.com/omsoni21/E-Commerce-React-main/blob/main/offer.png?raw=true)
 
-### 👗 Popular in Women
+### 👗 Popular in Women 
 ![Popular in Women](https://github.com/omsoni21/E-Commerce-React-main/blob/main/POPULAR%20IN%20WOMEN.png?raw=true)
 
 ### ✨ New Collections
