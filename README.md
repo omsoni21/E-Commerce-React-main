@@ -13,7 +13,7 @@ It allows users to browse products, view product details, and manage items in th
 - Fast performance using Create React App
 
 ## 📦 Tech Stack & Dependencies
-- React JS
+- React JS 
 - Create React App
 - React Router (if used)
 - CSS / Styled Components / Tailwind (based on your project)
