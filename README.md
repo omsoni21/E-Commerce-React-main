@@ -12,7 +12,7 @@ It allows users to browse products, view product details, and manage items in th
 - Clean and modular folder structure
 - Fast performance using Create React App
 
-## 📦 Tech Stack & Dependencies
+## 📦 Tech Stack & Dependencies   
 - React JS 
 - Create React App
 - React Router (if used)
