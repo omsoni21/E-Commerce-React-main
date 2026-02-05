@@ -41,6 +41,7 @@ n/Offers.png)
 
 ## 🛠️ Getting Started
 ### Install dependencies
+
 ```bash
 npm install
 
