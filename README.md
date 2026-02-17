@@ -45,7 +45,6 @@ n/Offers.png)
 ```bash
 npm install
 
-
 ## 🧰 Project Structure
 E-Commerce-React-main/
  ├── src/
