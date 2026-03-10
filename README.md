@@ -7,7 +7,7 @@ It allows users to browse products, view product details, and manage items in th
 ## 🔧 Features
 - Product listing page
 - Product detail page
-- Add to cart functionality
+- Add to cart functionality   
 - Responsive design
 - Clean and modular folder structure
 - Fast performance using Create React App
